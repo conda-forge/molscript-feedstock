@@ -10,7 +10,7 @@ source:
   sha256: de33f041afec5b4522a3777fee5cb90146dea6a093535e1d530bfc67571dd197
 
 build:
-  number: 0
+  number: 1
   skip: win
   script: |
     set -exo pipefail
